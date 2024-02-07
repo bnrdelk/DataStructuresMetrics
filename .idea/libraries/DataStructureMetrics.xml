@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DataStructureMetrics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataStructureMetrics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
